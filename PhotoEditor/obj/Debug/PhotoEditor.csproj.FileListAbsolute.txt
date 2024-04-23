@@ -1,0 +1,10 @@
+D:\Фриланс\9833\PhotoEditor\bin\Debug\PhotoEditor.exe.config
+D:\Фриланс\9833\PhotoEditor\bin\Debug\PhotoEditor.exe
+D:\Фриланс\9833\PhotoEditor\bin\Debug\PhotoEditor.pdb
+D:\Фриланс\9833\PhotoEditor\obj\Debug\PhotoEditor.csproj.AssemblyReference.cache
+D:\Фриланс\9833\PhotoEditor\obj\Debug\PhotoEditor.Form1.resources
+D:\Фриланс\9833\PhotoEditor\obj\Debug\PhotoEditor.Properties.Resources.resources
+D:\Фриланс\9833\PhotoEditor\obj\Debug\PhotoEditor.csproj.GenerateResource.cache
+D:\Фриланс\9833\PhotoEditor\obj\Debug\PhotoEditor.csproj.CoreCompileInputs.cache
+D:\Фриланс\9833\PhotoEditor\obj\Debug\PhotoEditor.exe
+D:\Фриланс\9833\PhotoEditor\obj\Debug\PhotoEditor.pdb
